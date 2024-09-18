@@ -1,2 +1,2 @@
-# calorie-tracker-zig
-yes
+# calorie-tracker-svelte
+learning
